@@ -186,7 +186,7 @@
 
         <!-- keep dependency properties sorted -->
         <dep.airlift.version>459</dep.airlift.version>
-        <dep.alluxio.version>2.9.6</dep.alluxio.version>
+        <dep.alluxio.version>313</dep.alluxio.version>
         <dep.antlr.version>4.13.2</dep.antlr.version>
         <dep.avro.version>1.12.2</dep.avro.version>
         <dep.cassandra.version>4.17.0</dep.cassandra.version>
