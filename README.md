@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Query Engine
+
+**Embryo Query Engine** is Embryo-Zero's fork of [trino](https://github.com/trinodb/trino), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
     <a href="https://trino.io/"><img alt="Trino Logo" src=".github/homepage.png" /></a>
 </p>
